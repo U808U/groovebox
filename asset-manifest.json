@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/groovebox/static/css/main.9e366cca.css",
+    "main.js": "/groovebox/static/js/main.5d2322d5.js",
+    "static/js/453.69413fc3.chunk.js": "/groovebox/static/js/453.69413fc3.chunk.js",
+    "index.html": "/groovebox/index.html",
+    "main.9e366cca.css.map": "/groovebox/static/css/main.9e366cca.css.map",
+    "main.5d2322d5.js.map": "/groovebox/static/js/main.5d2322d5.js.map",
+    "453.69413fc3.chunk.js.map": "/groovebox/static/js/453.69413fc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e366cca.css",
+    "static/js/main.5d2322d5.js"
+  ]
+}
